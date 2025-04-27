@@ -39,13 +39,10 @@ Security	CSRF tokens, Prepared Statements
 
 📸 Screenshots:
 
-signup page:
-![image](https://github.com/user-attachments/assets/dc2b189d-9d06-4c23-8696-957f7282aa4d)
+![image](https://github.com/user-attachments/assets/5deb0ead-611b-49f6-93f3-a2b80afa7ee8)
 
-login page:
-![image](https://github.com/user-attachments/assets/a3b9bce1-6c1d-487d-a400-7f75453b05f0)
+![image](https://github.com/user-attachments/assets/884fd583-0c25-4de4-a17b-dc2868e41a2d)
 
-profile page:
 ![image](https://github.com/user-attachments/assets/7d8398c6-4893-46de-88c1-eee21d2f9fcb)
 
 
