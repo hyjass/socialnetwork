@@ -43,6 +43,6 @@ Security	CSRF tokens, Prepared Statements
 
 ![image](https://github.com/user-attachments/assets/884fd583-0c25-4de4-a17b-dc2868e41a2d)
 
-![image](https://github.com/user-attachments/assets/7d8398c6-4893-46de-88c1-eee21d2f9fcb)
+![image](https://github.com/user-attachments/assets/b60b1b29-bc00-408a-acb5-7b1372dd29c8)
 
 
